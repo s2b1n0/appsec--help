@@ -17,10 +17,24 @@ The Application Security Engineer Guide is just a helper for all appsec engineer
 - [truffleHog](https://github.com/trufflesecurity/truffleHog)
 - [detect-secrets](https://github.com/Yelp/detect-secrets)
 - [Gitlab Secret Detection](https://docs.gitlab.com/ee/user/application_security/secret_detection/)
+- [Secret Finder](https://github.com/m4ll0k/SecretFinder)
+- [Gitleaks](https://github.com/zricethezav/gitleaks)
 
 ### SAST
 - [semgrep - several languages](https://github.com/returntocorp/semgrep)
+- [Shift-left scan](https://github.com/ShiftLeftSecurity/sast-scan)
 - [Bandit - Python](https://github.com/PyCQA/bandit)
+
+### DAST
+- [Jaeves](https://github.com/jaeles-project/jaeles)
+- [Nuclei](https://github.com/projectdiscovery/nuclei)
+
+### IaC (Infrastructure as code)
+- [Trivy](https://github.com/aquasecurity/trivy)
+- [Grype](https://github.com/anchore/grype)
+
+### Cloud Security Scanners
+- [Checkov](https://github.com/bridgecrewio/checkov)
 
 ### Manual security testing tools
 - [XSS Hunter](https://xsshunter.com/)
