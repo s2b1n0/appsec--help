@@ -47,3 +47,6 @@ The Application Security Engineer Guide is just a helper for all appsec engineer
 ## Software Security Compliance
 - [Choose a License - Open Source license compliance](https://choosealicense.com/licenses/)
 - [Information Security Policy templates SANS](https://www.sans.org/information-security-policy/)
+
+## MISC
+- [How to use keys?](https://github.com/streaak/keyhacks)
