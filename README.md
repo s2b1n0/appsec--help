@@ -10,6 +10,7 @@ The Application Security Engineer Guide is just a helper for all appsec engineer
 - [CTF Challenges](https://github.com/sixstars/CTF365)
 - [CTF Platform CTFD](https://ctfd.io/)
 - [CTF Platform FBCTF](https://github.com/facebookarchive/fbctf)
+- [Challenges_2021_Public](https://github.com/DownUnderCTF/Challenges_2021_Public)
 
 ## Security Testing
 
