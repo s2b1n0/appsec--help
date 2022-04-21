@@ -41,6 +41,7 @@ The Application Security Engineer Guide is just a helper for all appsec engineer
 - [XSS Hunter](https://xsshunter.com/)
 - [Canary Tokens](https://canarytokens.org/generate#)
 - [DNS Log](http://dnslog.cn/)
+- [GCP Bucket Brute](https://github.com/RhinoSecurityLabs/GCPBucketBrute)
 
 ## Vulnerability Management tools
 - [Defect Dojo](https://github.com/DefectDojo/django-DefectDojo)
