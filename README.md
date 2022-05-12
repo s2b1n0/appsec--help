@@ -50,5 +50,12 @@ The Application Security Engineer Guide is just a helper for all appsec engineer
 - [Choose a License - Open Source license compliance](https://choosealicense.com/licenses/)
 - [Information Security Policy templates SANS](https://www.sans.org/information-security-policy/)
 
+## OSINT
+- [Abuse SH](https://urlhaus.abuse.ch/)
+- [CommonCrawl](https://commoncrawl.org/)
+- [Archive Web](https://archive.org/web/)
+- [Alienvault](https://otx.alienvault.com/)
+- [Grayhatwarfare - S3 Buckets](https://buckets.grayhatwarfare.com/)
+
 ## MISC
 - [How to use keys?](https://github.com/streaak/keyhacks)
