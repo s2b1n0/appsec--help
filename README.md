@@ -66,4 +66,4 @@ The Application Security Engineer Guide is just a helper for all appsec engineer
 - [n8n Workflow Automation](https://n8n.io/)
 
 ## MISC
-- [How to use keys?](https://github.com/streaak/keyhacks)
+- [KeyHacks - Where to test a key that I found?](https://github.com/streaak/keyhacks)
