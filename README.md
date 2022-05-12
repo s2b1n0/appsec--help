@@ -25,6 +25,7 @@ The Application Security Engineer Guide is just a helper for all appsec engineer
 - [semgrep - several languages](https://github.com/returntocorp/semgrep)
 - [Shift-left scan](https://github.com/ShiftLeftSecurity/sast-scan)
 - [Bandit - Python](https://github.com/PyCQA/bandit)
+- [Gitlab Sast Containers](https://docs.gitlab.com/ee/user/application_security/sast/)
 
 ### DAST
 - [Jaeves](https://github.com/jaeles-project/jaeles)
@@ -43,19 +44,26 @@ The Application Security Engineer Guide is just a helper for all appsec engineer
 - [DNS Log](http://dnslog.cn/)
 - [GCP Bucket Brute](https://github.com/RhinoSecurityLabs/GCPBucketBrute)
 
-## Vulnerability Management tools
+## Vulnerability Management and Security Orchestration
 - [Defect Dojo](https://github.com/DefectDojo/django-DefectDojo)
 
 ## Software Security Compliance
 - [Choose a License - Open Source license compliance](https://choosealicense.com/licenses/)
 - [Information Security Policy templates SANS](https://www.sans.org/information-security-policy/)
 
-## OSINT
+## OSINT Recon Tools
+- [owasp amass](https://github.com/OWASP/Amass)
+- [Reconftw](https://github.com/six2dez/reconftw)
+
+## OSINT Engine Database
 - [Abuse SH](https://urlhaus.abuse.ch/)
 - [CommonCrawl](https://commoncrawl.org/)
 - [Archive Web](https://archive.org/web/)
 - [Alienvault](https://otx.alienvault.com/)
 - [Grayhatwarfare - S3 Buckets](https://buckets.grayhatwarfare.com/)
+
+## Security Automation
+- [n8n Workflow Automation](https://n8n.io/)
 
 ## MISC
 - [How to use keys?](https://github.com/streaak/keyhacks)
