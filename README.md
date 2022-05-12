@@ -61,6 +61,7 @@ The Application Security Engineer Guide is just a helper for all appsec engineer
 - [Archive Web](https://archive.org/web/)
 - [Alienvault](https://otx.alienvault.com/)
 - [Grayhatwarfare - S3 Buckets](https://buckets.grayhatwarfare.com/)
+- [Phishstats](https://phishstats.info/)
 
 ## Security Automation
 - [n8n Workflow Automation](https://n8n.io/)
