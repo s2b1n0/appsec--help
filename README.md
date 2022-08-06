@@ -34,6 +34,7 @@ The Application Security Engineer Guide is just a helper for all appsec engineer
 ### IaC (Infrastructure as code)
 - [Trivy](https://github.com/aquasecurity/trivy)
 - [Grype](https://github.com/anchore/grype)
+- [Anchore](https://github.com/anchore/anchore-engine)
 
 ### Cloud Security Scanners
 - [Checkov](https://github.com/bridgecrewio/checkov)
@@ -51,6 +52,7 @@ The Application Security Engineer Guide is just a helper for all appsec engineer
 ## Software Security Compliance
 - [Choose a License - Open Source license compliance](https://choosealicense.com/licenses/)
 - [Information Security Policy templates SANS](https://www.sans.org/information-security-policy/)
+- [goSdl - Web app for AppSec Checklists](https://github.com/slackhq/goSDL)
 
 ## OSINT Recon Tools
 - [owasp amass](https://github.com/OWASP/Amass)
@@ -66,6 +68,9 @@ The Application Security Engineer Guide is just a helper for all appsec engineer
 
 ## Security Automation
 - [n8n Workflow Automation](https://n8n.io/)
+
+## Endpoint Visibility
+- [Osquery](https://osquery.io/)
 
 ## MISC
 - [KeyHacks - Where to test a key that I found?](https://github.com/streaak/keyhacks)
