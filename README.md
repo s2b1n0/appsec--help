@@ -75,3 +75,4 @@ The Application Security Engineer Guide is just a helper for all appsec engineer
 ## MISC
 - [KeyHacks - Where to test a key that I found?](https://github.com/streaak/keyhacks)
 - [Web Cache Vulnerability Scanner](https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner)
+- [Sherlockeys - Discovery valid keys in Saas Apps](https://github.com/s2b1n0/sherlockeys)
