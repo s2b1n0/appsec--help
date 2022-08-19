@@ -69,8 +69,9 @@ The Application Security Engineer Guide is just a helper for all appsec engineer
 ## Security Automation
 - [n8n Workflow Automation](https://n8n.io/)
 
-## Endpoint Visibility
+## Endpoint Visibility/Protection
 - [Osquery](https://osquery.io/)
+- [fail2ban - ssh protection](https://github.com/fail2ban/fail2ban)
 
 ## MISC
 - [KeyHacks - Where to test a key that I found?](https://github.com/streaak/keyhacks)
