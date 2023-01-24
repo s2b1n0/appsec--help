@@ -31,6 +31,9 @@ The Application Security Engineer Guide is just a helper for all appsec engineer
 - [Jaeves](https://github.com/jaeles-project/jaeles)
 - [Nuclei](https://github.com/projectdiscovery/nuclei)
 
+### SCA / Software Suply Chain Security
+- [OpenSSF Scorecard](https://api.securityscorecards.dev)
+
 ### IaC (Infrastructure as code)
 - [Trivy](https://github.com/aquasecurity/trivy)
 - [Grype](https://github.com/anchore/grype)
