@@ -14,6 +14,9 @@ The Application Security Engineer Guide is just a helper for all appsec engineer
 
 ## Security Testing
 
+### Thread Modeling
+- [threatspec Thread Modeling as code](https://github.com/threatspec/threatspec)
+
 ### Secret Detection
 - [truffleHog](https://github.com/trufflesecurity/truffleHog)
 - [detect-secrets](https://github.com/Yelp/detect-secrets)
@@ -30,9 +33,12 @@ The Application Security Engineer Guide is just a helper for all appsec engineer
 ### DAST
 - [Jaeves](https://github.com/jaeles-project/jaeles)
 - [Nuclei](https://github.com/projectdiscovery/nuclei)
+- [Nettacker](https://github.com/OWASP/Nettacker)
 
 ### SCA / Software Suply Chain Security
 - [OpenSSF Scorecard](https://api.securityscorecards.dev)
+- [Dependency Check](https://github.com/jeremylong/DependencyCheck)
+- [Dependency Track](https://github.com/DependencyTrack/dependency-track)
 
 ### IaC (Infrastructure as code)
 - [Trivy](https://github.com/aquasecurity/trivy)
