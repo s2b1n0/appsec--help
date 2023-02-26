@@ -15,7 +15,7 @@ The Application Security Engineer Guide is just a helper for all appsec engineer
 ## Security Testing
 
 ### Thread Modeling
-- [threatspec Thread Modeling as code](https://github.com/threatspec/threatspec)
+- [threatspec - Thread Modeling as code](https://github.com/threatspec/threatspec)
 
 ### Secret Detection
 - [truffleHog](https://github.com/trufflesecurity/truffleHog)
@@ -80,6 +80,7 @@ The Application Security Engineer Guide is just a helper for all appsec engineer
 
 ## Security Automation
 - [n8n Workflow Automation](https://n8n.io/)
+- [Dracon](https://github.com/ocurity/dracon)
 
 ## Endpoint Visibility/Protection
 - [Osquery](https://osquery.io/)
@@ -89,3 +90,4 @@ The Application Security Engineer Guide is just a helper for all appsec engineer
 - [KeyHacks - Where to test a key that I found?](https://github.com/streaak/keyhacks)
 - [Web Cache Vulnerability Scanner](https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner)
 - [Sherlockeys - Discovery valid keys in Saas Apps](https://github.com/s2b1n0/sherlockeys)
+- [Draw.io devsecops library](https://github.com/djschleen/devsecops-architecture-tools)
