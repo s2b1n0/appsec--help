@@ -44,6 +44,7 @@ The Application Security Engineer Guide is just a helper for all appsec engineer
 - [Trivy](https://github.com/aquasecurity/trivy)
 - [Grype](https://github.com/anchore/grype)
 - [Anchore](https://github.com/anchore/anchore-engine)
+- [kubesec](https://kubesec.io)
 
 ### Cloud Security Scanners
 - [Checkov](https://github.com/bridgecrewio/checkov)
