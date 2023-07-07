@@ -14,6 +14,9 @@ The Application Security Engineer Guide is just a helper for all appsec engineer
 
 ## Security Testing
 
+### Security Scanners
+- [BrokenLinkHijacker](https://github.com/MayankPandey01/BrokenLinkHijacker)
+
 ### Thread Modeling
 - [threatspec - Thread Modeling as code](https://github.com/threatspec/threatspec)
 
